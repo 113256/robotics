@@ -16,7 +16,7 @@ void follow_wall();
 
 
 
-const int SPEED = 50;//50
+const int SPEED = 500;//50
 
 
 float previousL = 0, previousR = 0;
